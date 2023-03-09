@@ -31,6 +31,7 @@ public class Practice7 {
 
         chosen.sort((Comparator.naturalOrder()));
 
+        //정렬한다
         return chosen;
     }
 }
